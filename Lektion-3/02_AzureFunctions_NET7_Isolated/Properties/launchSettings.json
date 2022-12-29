@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_02_AzureFunctions_NET7_Isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7027",
+      "launchBrowser": false
+    }
+  }
+}

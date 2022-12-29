@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iOFEijVgwRGe32FRvDeNmgP33/80KtVyKBiduxZzVDqVQEUvrJR1EYPbUkeyWJUxCNJSPtEGfg6mD/+qrYw8gw==",
+  "dgSpecHash": "qGAdvL6Sg5tcC/C8XorgVO89KJT00tpS7dyRSmj60gOP1zoriaSj0kddlFlywAtOz50NJmubxZSVyEdyLgia5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\dotnetty.buffers\\0.7.0\\dotnetty.buffers.0.7.0.nupkg.sha512",
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\dotnetty.codecs\\0.7.0\\dotnetty.codecs.0.7.0.nupkg.sha512",

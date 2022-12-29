@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj": {}
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj": {
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
         "projectName": "Device.ConsoleApp",
-        "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\Device.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\test\\Lektion-2\\Device.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETGR10\\Lektion-2\\Device.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
